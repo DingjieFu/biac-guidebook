@@ -24,7 +24,7 @@
 
 本项目受 [developer2gwy](https://github.com/miss-mumu/developer2gwy) 项目的启发。
 
-大概一年半前由于种种巧合来了BIAC实验室(EIC, HUST, Wuhan, China)，戎马半生发现才熬完一半，心态上难免出了一些问题。
+一年半前种种巧合来了BIAC(EIC, HUST, Wuhan, China)，戎马半生发现才熬完一半，心态上难免出了一些问题。
 
 对比本科同学所在的同学院的其他实验室，BIAC人在未来的升学就业时会遇到很大问题，没有容错能力。
 
