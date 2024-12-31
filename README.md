@@ -40,3 +40,6 @@
 * Peng: 
 * Xu:
 
+## 📜 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DingjieFu/biac-guidebook&type=Date)](https://star-history.com/#DingjieFu/biac-guidebook&Date)
