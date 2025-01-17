@@ -2,7 +2,7 @@
 
 <p align="center"> 🔎 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DingjieFu/biac-guidebook?style=social"> 🍴 <img alt="GitHub forks" src="https://img.shields.io/github/forks/DingjieFu/biac-guidebook?style=social"> 🌟 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/DingjieFu/biac-guidebook?style=social"></p>
 
-> [开源BIAC(新称BMAL)实验室生存指南] [官网](https://bmal.hust.edu.cn/)
+> [开源BIAC(新称BMAL)实验室 [官网](https://bmal.hust.edu.cn/) 生存指南] 
 
 ## 👋Quick start
 
